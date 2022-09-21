@@ -4,7 +4,7 @@ Code for ACM MM 2022 Paper "Image Inpainting Detection via Enriched Attentive Pa
 
 Author: Wenhan Yang, Rizhao Cai, Alex C. Kot
 
-Paper Link: <./>
+Paper Link: <https://www.dropbox.com/s/6xl8oheeioz7vjn/MM_att_pattern_final.pdf?dl=0>
 
 Project Page: <https://dezhao-wang.github.io/Neural-Syntax-Website/>
 
