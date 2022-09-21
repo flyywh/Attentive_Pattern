@@ -6,7 +6,7 @@ Author: Wenhan Yang, Rizhao Cai, Alex C. Kot
 
 Paper Link: <https://www.dropbox.com/s/6xl8oheeioz7vjn/MM_att_pattern_final.pdf?dl=0>
 
-Project Page: <https://dezhao-wang.github.io/Neural-Syntax-Website/>
+Project Page: <https://github.com/flyywh/Attentive_Pattern/>
 
 ## Evaluation
 Comming Soon!
