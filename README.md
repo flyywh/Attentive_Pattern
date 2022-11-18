@@ -8,7 +8,7 @@ Paper Link: <https://www.dropbox.com/s/6xl8oheeioz7vjn/MM_att_pattern_final.pdf?
 
 Project Page: <https://github.com/flyywh/Attentive_Pattern/>
 
-Dataset: 
+Testing Data: <https://www.dropbox.com/s/ie1onkf7avfg0at/DiverseInpaintingDataset.zip?dl=0>
 
 ## Abstract
 
